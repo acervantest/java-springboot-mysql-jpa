@@ -1,0 +1,47 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+# directories
+.settings/
+.target/
+.idea/
+.worksheet/
+bin/
+build/
+dist/
+logs/
+node_modules/
+out/
+target/
+tmp/
+.mvn
+/src/test/*
+
+# files
+*.iml
+*/.DS_Store
+\#*
+.cache
+.classpath
+.DS_Store
+.history
+.idea
+.idea_modules
+.project
+RUNNING_PID
+mvnw.cmd
+mvnw
+
+bin/
+build/
+code/
+lib/
+target/
